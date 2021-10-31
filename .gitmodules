@@ -1,0 +1,3 @@
+[submodule "ThirdParty/marching_cubes"]
+	path = ThirdParty/marching_cubes
+	url = git@github.com:dearshuto/marching_cubes_rs.git
